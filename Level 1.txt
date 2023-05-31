@@ -1,0 +1,10 @@
+
+Level 1: Introduction to React.js
+
+1. What is React.js and what are its key features?
+2. What is JSX in React.js? How does it differ from HTML?
+3. How do you create a React component? Explain the difference between functional and class components.
+4. What is the virtual DOM in React.js? How does it improve performance?
+
+
+
