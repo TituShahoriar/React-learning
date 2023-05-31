@@ -1,0 +1,7 @@
+Level 2: Components and Props
+
+1. How do you pass data from a parent component to a child component in React?
+2. What are props in React? How do you access and use them within a component?
+3. How can you handle events in React? Provide an example.
+4. What is conditional rendering in React? How do you conditionally render components based on a certain condition?
+
