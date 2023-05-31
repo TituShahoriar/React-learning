@@ -1,0 +1,7 @@
+Level 3: State and Lifecycle
+
+1. What is state in React? How do you define and use state within a component?
+2. Explain the component lifecycle methods in React and their order of execution.
+3. What is the purpose of the `componentDidMount` lifecycle method? Provide an example of its usage.
+4. How do you update state in React? Explain the difference between `setState` and `forceUpdate`.
+
