@@ -1,0 +1,7 @@
+Level 5: Hooks and Context API
+
+1. What are hooks in React? Explain the purpose of the `useState` and `useEffect` hooks.
+2. How do you create custom hooks in React? Provide an example.
+3. What is the Context API in React? How does it solve the problem of prop drilling?
+4. How do you use the Context API to share data between components? Provide an example.
+
