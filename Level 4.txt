@@ -1,0 +1,7 @@
+Level 4: React Router and Routing
+
+1. What is React Router? How do you install and configure it in a React application?
+2. How do you define routes and render components for specific routes in React Router?
+3. What are route parameters in React Router? How do you access and use them within a component?
+4. How can you perform programmatic navigation in React Router? Provide an example.
+
